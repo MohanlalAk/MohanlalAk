@@ -17,7 +17,6 @@
 - Test Case Design & Execution 📋
 - Continuous Integration (CI) / Continuous Deployment (CD) ⚙️
 - Agile/Scrum Methodologies 🔄
-- [List any other relevant expertise]
 
 ### 🌱 Always Learning
 Technology never stands still, and neither do I. I'm constantly exploring new testing methodologies, tools, and best practices to stay at the forefront of the ever-evolving software landscape. 🚀</p>
