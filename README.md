@@ -1,5 +1,5 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Mohanlal AK</h1>
+<h1 align="center">Hi 👋, I'm Mohanlal Aahokkumar</h1>
 <h3 align="center">A Passionate and Dedicated Software Tester</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="center">I'm a passionate software tester with a knack for uncovering hidden bugs and ensuring that every line of code meets the highest quality standards and i have experience in the industry, I've honed my skills in manual and automated testing, ensuring the delivery of robust and flawless software.</p>
